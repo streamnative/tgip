@@ -1,7 +1,7 @@
 ---
 name: episode
 about: Episode checklist (used by coordinator)
-title: episode
+title: 'Episode $number: $topic-name'
 labels: episode-task
 assignees: ''
 
