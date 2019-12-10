@@ -16,7 +16,7 @@
 
 - Domain/keyword:
 
-- Slide:
+- Slide (optional):
 
 ## Table of Content
 
