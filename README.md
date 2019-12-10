@@ -8,9 +8,9 @@ TGIP, organized by StreamNative, is a weekly live video streaming about Apache P
 
 * [List of episode](playlist.md): contains a list of all episodes.
 
-* [Video of episode](TBD): contains all recorded videos.
+* [Video of episode](https://www.youtube.com/channel/UCywxUI5HlIyc0VEKYR4X9Pg?view_as=subscriber): contains all recorded videos.
 
-## Suggest a topic
+## Suggest an episode
 
 If you have any ideas for TGIP, welcome to [open an issue in the TGIP issue tracker](TBD).
 
