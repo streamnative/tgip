@@ -1,10 +1,22 @@
-# topic-name
+# Basic information
+
+- Topic:
 
 - Instructor:
-- Date:
-- Video: 
 
-[insert an image here] 
+- Date:
+
+- Time:
+
+- Duration:
+
+- Live streaming link:
+
+- Recorded vidoe link:
+
+- Domain/keyword:
+
+- Slide:
 
 ## Table of Content
 
@@ -12,4 +24,5 @@
 
 ## Reference 
 
+[insert an image here] 
 
