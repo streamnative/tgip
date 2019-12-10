@@ -9,11 +9,21 @@ assignees: ''
 
 Check the following items when you plan to start an episode.
 
+- [ ] Coordinator: ()  
+
+    Assign tasks to people by filling @Handle in each parenthesis.
+
+- [ ] Instructor: ()
+
 ## Before an episode
  
 - [ ] () Pick a topic from the [episode idea backlog](https://github.com/streamnative/tgip/issues?q=is%3Aopen+is%3Aissue+label%3Aepisode-ideal)
 
-- [ ] () Create a folder for the episode in 
+- [ ] () Create a folder for the episode in the [episode folder](https://github.com/streamnative/tgip/tree/master/episodes) and name it in numeric order.
+  
+    **Example**
+    
+    001, 002, 003
 
 - [ ] () Create an image for the episode
 
