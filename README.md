@@ -4,7 +4,7 @@ This is the official repository for TGIP.
 
 TGIP, organized by StreamNative, is a weekly live video streaming about Apache Pulsar.
 
-* Time: 19:00 PST.
+* Time: every Friday at 13:00 PST.
 
 * [List of episode](playlist.md): contains a list of all episodes.
 
