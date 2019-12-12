@@ -1,5 +1,7 @@
 This is the official repository for TGIP.
 
+![](image/cover.png)
+
 ## Basic information
 
 TGIP, organized by StreamNative, is a weekly live video streaming about Apache Pulsar.
