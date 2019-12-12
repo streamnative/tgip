@@ -25,7 +25,7 @@ Check the following items when you plan to start an episode.
     
     001, 002, 003
 
-- [ ] () Create an image for the episode.
+- [ ] () Create an image for the episode and upload it to [image folder](https://github.com/streamnative/tgip/tree/master/image).
 
 - [ ] () Publish an episode announcement with the following information to the following platforms.
 
@@ -93,7 +93,7 @@ Check the following items when you plan to start an episode.
 
 - [ ] () Upload the recorded video to StreamNative YouTube account.
   
-  - Set the [image]() as the cover image for this episode.
+  - Set the [image](https://github.com/streamnative/tgip/tree/master/image) as the cover image for this episode.
   
   - Add this video to `TGIP` playlist.
   
