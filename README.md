@@ -12,10 +12,10 @@ TGIP, organized by StreamNative, is a weekly live video streaming about Apache P
 
 ## Start an episode
 
-[Open an `episode` issue](https://github.com/streamnative/tgip/issues/new?assignees=&labels=episode-ideal&template=episode-ideal.md&title=Episode+ideal%3A+%24topic-name) and follow the detailed workflow.
+[Open an `episode` issue](https://github.com/streamnative/tgip/issues/new/choose) and follow the detailed workflow.
 
 ## Suggest an episode 
 
-If you have any ideas for TGIP, welcome to [open an `episode-idea` issue](https://github.com/streamnative/tgip/issues/new?assignees=&labels=episode-task&template=episode.md&title=Episode+%24number%3A+%24topic-name).
+If you have any ideas for TGIP, welcome to [open an `episode-idea` issue](https://github.com/streamnative/tgip/issues/new/choose).
 
 We will choose the topic that is appropriate and fits with what's happening in the Pulsar community and industry.
