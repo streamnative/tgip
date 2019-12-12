@@ -63,7 +63,7 @@ Check the following items when you plan to start an episode.
   
     - [ ] StreamNative WeChat group
 
-- [ ] () Set up live streaming. 
+- [ ] () Set up live stream on YouTube with OBS. 
   
     - Note: if this is the first time for you to live stream, ask [Sijie Guo](mailto:sg@streamnative.io) to grant manager privilege to you for StreamNative YouTube account.
   
@@ -75,7 +75,11 @@ Check the following items when you plan to start an episode.
   
         - [Learn OBS in 30 minutes | Complete tutorial for beginners](https://www.youtube.com/watch?v=r7teWxV5BCE)
 
-- [ ] () Get everything tested well 
+- [ ] () Get everything tested well:
+    
+    - Network
+    
+    - Live streaming device, such as camera, audio, and so on
 
 ## During an episode
 
