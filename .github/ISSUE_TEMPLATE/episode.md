@@ -9,9 +9,9 @@ assignees: ''
 
 Check the following items when you plan to start an episode.
 
-- [ ] Coordinator: ()  
+Assign people to each role by filling @Handle in the following parentheses.
 
-    Assign tasks to people by filling @Handle in each parenthesis.
+- [ ] Coordinator: ()  
 
 - [ ] Instructor: ()
 
