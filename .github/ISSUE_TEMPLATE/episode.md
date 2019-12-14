@@ -131,8 +131,6 @@ Assign people to each role by filling @Handle in the following parentheses.
   
     - [ ] Pulsar Slack `#tgip` channel
 
-    - [ ] HackNews
-
     - [ ] StreamNative Twitter with the hashtag `#TGIP`
   
     - [ ] StreamNative LinkedIn with the hashtag `#TGIP`
