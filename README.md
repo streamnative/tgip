@@ -6,9 +6,11 @@ TGIP, organized by StreamNative, is a weekly live video streaming about Apache P
 
 * Time: every Friday at 13:00 PST.
 
+* [Live streaming link](https://www.youtube.com/channel/UCywxUI5HlIyc0VEKYR4X9Pg/live): you can watch the Pulsar live streaming here. 
+
 * [List of episode](playlist.md): contains a list of all episodes.
 
-* [Video of episode](https://www.youtube.com/channel/UCywxUI5HlIyc0VEKYR4X9Pg?view_as=subscriber): contains all recorded videos.
+* [Recorded video link](https://www.youtube.com/channel/UCywxUI5HlIyc0VEKYR4X9Pg?view_as=subscriber): we record every live streaming and upload them here.
 
 ## Start an episode
 
