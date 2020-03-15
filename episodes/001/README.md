@@ -10,7 +10,7 @@
 
 - Duration: 1hr
 
-- Recorded video link: https://www.youtube.com/watch?v=1RQSot5tTuU
+- Recorded video link: https://www.youtube.com/watch?v=1RQSot5tTuU&list=PLqRma1oIkcWhWAhKgImEeRiQi5vMlqTc-
 
 ## Note
 
