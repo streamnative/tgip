@@ -1,28 +1,24 @@
 # Basic information
 
-- Topic:
+- Topic: Install a Pulsar cluster
 
-- Domain/keyword:
+- Host: Sijie Guo [@sijieg](https://twitter.com/sijieg)
 
-- Instructor:
+- Date: 03/13/2020
 
-- Date:
+- Time: 1PM PST
 
-- Time:
+- Duration: 1hr
 
-- Duration:
-
-- Recorded video link:
-
-- Live streaming link: https://www.youtube.com/channel/UCywxUI5HlIyc0VEKYR4X9Pg/live
-
-- Slide (optional):
-
-## Table of Content
+- Recorded video link: https://www.youtube.com/watch?v=1RQSot5tTuU&list=PLqRma1oIkcWhWAhKgImEeRiQi5vMlqTc-
 
 ## Note
 
-## Reference 
+- Pulsar Network Topology
+
+![](network-topology.png)
+
+- [Demo instructions](demo.md)
 
 ![](https://github.com/streamnative/tgip/blob/master/image/001.png)
 
