@@ -1,3 +1,3 @@
 # TGI Pulsar Playlist Index
 
-- [001: topic-name](placeholder for its README URL)
+- [001: Install a Pulsar cluster](https://github.com/streamnative/tgip/blob/master/episodes/001/README.md)
