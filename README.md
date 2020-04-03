@@ -28,4 +28,4 @@ If you have any ideas for TGIP, welcome to [open an `episode-idea` issue](https:
 
 We will choose the topic that is appropriate and fits with what's happening in the Pulsar community and industry.
 
-![](image/cover.png)
+![](image/cover.jpg)
