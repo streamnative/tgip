@@ -2,6 +2,11 @@ This is the official repository for TGI Pulsar (TGIP).
 
 ## Playlist
 
+- [008: What is new in Pulsar 2.5.1?](https://github.com/streamnative/tgip/blob/master/episodes/008/README.md)
+- [007: Cluster & Geo-replication](https://github.com/streamnative/tgip/blob/master/episodes/007/README.md)
+- [006: Lifecycle of a Pulsar message](https://github.com/streamnative/tgip/blob/master/episodes/006/README.md)
+- [005: Taking a deep-dive into Apache Pulsar architecture for performance tuning](https://github.com/streamnative/tgip/blob/master/episodes/005/README.md)
+- [004: Deep dive into authentication and authorization](https://github.com/streamnative/tgip/blob/master/episodes/004/README.md)
 - [003: Secure a Pulsar cluster with TLS](https://github.com/streamnative/tgip/blob/master/episodes/003/README.md)
 - [002: Kubernetes Deployment](https://github.com/streamnative/tgip/blob/master/episodes/002/README.md)
 - [001: Install a Pulsar cluster](https://github.com/streamnative/tgip/blob/master/episodes/001/README.md)
@@ -28,4 +33,4 @@ If you have any ideas for TGIP, welcome to [open an `episode-idea` issue](https:
 
 We will choose the topic that is appropriate and fits with what's happening in the Pulsar community and industry.
 
-![](image/cover.png)
+![](image/cover.jpg)
