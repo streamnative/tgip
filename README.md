@@ -2,6 +2,8 @@ This is the official repository for TGI Pulsar (TGIP).
 
 ## Playlist
 
+- [010: BookKeeper LAC protocol](https://github.com/streamnative/tgip/blob/master/episodes/010/README.md)
+- [009: Introduction of Apache BookKeeper](https://github.com/streamnative/tgip/blob/master/episodes/009/README.md)
 - [008: What is new in Pulsar 2.5.1?](https://github.com/streamnative/tgip/blob/master/episodes/008/README.md)
 - [007: Cluster & Geo-replication](https://github.com/streamnative/tgip/blob/master/episodes/007/README.md)
 - [006: Lifecycle of a Pulsar message](https://github.com/streamnative/tgip/blob/master/episodes/006/README.md)
