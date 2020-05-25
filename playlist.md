@@ -1,5 +1,6 @@
 # TGI Pulsar Playlist Index
 
+- [011: BookKeeper AutoRecovery](https://github.com/streamnative/tgip/blob/master/episodes/011/README.md)
 - [010: BookKeeper LAC protocol](https://github.com/streamnative/tgip/blob/master/episodes/010/README.md)
 - [009: Introduction of Apache BookKeeper](https://github.com/streamnative/tgip/blob/master/episodes/009/README.md)
 - [008: What is new in Pulsar 2.5.1?](https://github.com/streamnative/tgip/blob/master/episodes/008/README.md)
