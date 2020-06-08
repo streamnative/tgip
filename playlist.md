@@ -1,5 +1,6 @@
 # TGI Pulsar Playlist Index
 
+- [013: Pulsar Schema and Presto SQL](https://github.com/streamnative/tgip/blob/master/episodes/013/README.md)
 - [012: Introduction of Pulsar Schema](https://github.com/streamnative/tgip/blob/master/episodes/012/README.md)
 - [011: BookKeeper AutoRecovery](https://github.com/streamnative/tgip/blob/master/episodes/011/README.md)
 - [010: BookKeeper LAC protocol](https://github.com/streamnative/tgip/blob/master/episodes/010/README.md)
