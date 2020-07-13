@@ -1,5 +1,6 @@
 # TGI Pulsar Playlist Index
 
+- [015: What's New In Pulsar 2.6.0?](https://github.com/streamnative/tgip/blob/master/episodes/015/README.md)
 - [014: Pulsar Schema and Flink Integration](https://github.com/streamnative/tgip/blob/master/episodes/014/README.md)
 - [013: Pulsar Schema and Presto SQL](https://github.com/streamnative/tgip/blob/master/episodes/013/README.md)
 - [012: Introduction of Pulsar Schema](https://github.com/streamnative/tgip/blob/master/episodes/012/README.md)
