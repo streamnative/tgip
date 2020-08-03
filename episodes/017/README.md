@@ -18,5 +18,5 @@ Pulsar Weekly: https://streamnative.io/weekly
   
 ---
 
-![](https://github.com/streamnative/tgip/blob/master/image/016.png)
+![](https://github.com/streamnative/tgip/blob/master/image/017.png)
 
