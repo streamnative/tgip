@@ -10,7 +10,7 @@
 
 - Duration: 1 HR
 
-- Sign uo link: https://us02web.zoom.us/webinar/register/2216003858545/WN_Qig1o1VlSVe6lk5omYb6zA
+- Video link: https://www.youtube.com/watch?v=fgFTzmdTVQE 
 
 ## Week in Review
 

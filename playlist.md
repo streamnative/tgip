@@ -1,5 +1,6 @@
 # TGI Pulsar Playlist Index
 
+- [020: March updates on apache Pulsar](https://github.com/streamnative/tgip/blob/master/episodes/020/README.md)
 - [019: February updates on apache Pulsar](https://github.com/streamnative/tgip/blob/master/episodes/019/README.md)
 - [018: From Single-AZ to Multi-AZ and Geo-replication](https://github.com/streamnative/tgip/blob/master/episodes/018/README.md)
 - [017: Pulsar Multi-Tenancy Best Practices](https://github.com/streamnative/tgip/blob/master/episodes/017/README.md)
