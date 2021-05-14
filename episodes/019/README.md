@@ -1,6 +1,6 @@
 # Basic information
 
-- Topic: Latest Updates On Apache Pulsar
+- Topic: February Project updates on Apache Pulsar
 
 - Host: Sijie
 
