@@ -10,7 +10,7 @@
 
 - Duration: 1 HR
 
-- Record video link: https://www.youtube.com/watch?v=fgFTzmdTVQE&list=PLqRma1oIkcWhWAhKgImEeRiQi5vMlqTc-&index=2
+- Video link: https://www.youtube.com/watch?v=fgFTzmdTVQE 
 
 ## Week in Review
 
