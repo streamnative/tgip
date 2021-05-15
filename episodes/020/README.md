@@ -1,8 +1,8 @@
 # Basic information
 
-- Topic: TGIP 020: Monthly Pulsar Project Updates
+- Topic: March Project Updates On Apache Pulsar
 
-- Host: Sijie Guo
+- Host: Sijie
 
 - Date: 2021-03-10
 
